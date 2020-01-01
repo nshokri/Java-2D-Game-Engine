@@ -1,0 +1,17 @@
+
+Window that user can interact with
+Coordinate/Grid
+X--dimension for the cell
+X--2d array of cells [x][y]
+----Class cell:
+
+
+
+
+
+Draw grid Java
+
+
+
+Characters and other things
+--X->  <-Y
